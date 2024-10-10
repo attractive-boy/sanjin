@@ -1,0 +1,1 @@
+<view class="invite-wrapper"><image class="img" style="" src="{{a}}" mode=""></image><view class="bottom"><view class="text"> 长按上面的图片，保存或转发给好友 </view></view></view>

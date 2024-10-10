@@ -1,0 +1,33 @@
+/* 水平间距 */
+/* 水平间距 */
+.table.data-v-f94a969d {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.table .table-item.data-v-f94a969d {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  padding: 30rpx;
+  align-items: center;
+}
+.table .table-item .right.data-v-f94a969d {
+  display: flex;
+  align-items: center;
+}
+.table .table-item .head.data-v-f94a969d {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+}
+.logout.data-v-f94a969d {
+  width: 70vw;
+  margin-top: 50rpx;
+  margin-bottom: 50rpx;
+}
+.delete.data-v-f94a969d {
+  opacity: 0.7;
+  display: flex;
+  justify-content: center;
+}

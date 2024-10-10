@@ -1,0 +1,167 @@
+/* 水平间距 */
+/* 水平间距 */
+.nav-var.data-v-93207a4f {
+  width: 100vw;
+  height: 80rpx;
+  margin-top: 50rpx;
+  position: fixed;
+  color: white;
+  top: 0;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  font-size: 40rpx;
+}
+.top-box.data-v-93207a4f {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+.top-box .order-tabs.data-v-93207a4f {
+  display: flex;
+}
+.top-box .order-tabs .item.data-v-93207a4f {
+  display: flex;
+  flex-direction: column;
+  border-radius: 30rpx;
+  background-color: white;
+  width: 200rpx;
+  height: 150rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top-box .order-tabs .item .down.data-v-93207a4f {
+  margin-top: 20rpx;
+  width: 80rpx;
+  border-bottom: 9rpx solid blue;
+  margin-left: 10rpx;
+}
+.top-box .search-box.data-v-93207a4f {
+  background-color: white;
+  border-radius: 30rpx;
+  display: flex;
+  align-items: center;
+}
+.top-box .search-box .search-bar.data-v-93207a4f {
+  flex-grow: 1;
+}
+.top-box .search-box .search-btn.data-v-93207a4f {
+  height: 70rpx;
+  display: flex;
+  align-items: center;
+  border-radius: 40rpx;
+  padding-left: 40rpx;
+  padding-right: 40rpx;
+}
+.tabs-container.data-v-93207a4f {
+  width: 100vw;
+}
+.order-tabs.data-v-93207a4f {
+  display: flex;
+  position: relative;
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #ddd;
+  gap: 10rpx;
+}
+.tab-item.data-v-93207a4f {
+  width: 90rpx;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 22rpx;
+  cursor: pointer;
+  color: #333;
+  position: relative;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+.tab-item.active.data-v-93207a4f {
+  color: #007aff;
+  /* 选中状态的文字颜色 */
+  font-weight: bold;
+}
+.indicator.data-v-93207a4f {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background-color: #007aff;
+  /* 横条颜色 */
+  width: 8%;
+  /* 根据需要设置横条的宽度 */
+  transition: transform 0.3s ease;
+}
+.content.data-v-93207a4f {
+  padding: 20px;
+}
+.content-title.data-v-93207a4f {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.content-description.data-v-93207a4f {
+  font-size: 16px;
+}
+.order-list.data-v-93207a4f {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30rpx;
+}
+.order-list .item.data-v-93207a4f {
+  background-color: white;
+  border-radius: 30rpx;
+}
+.card-list .single.data-v-93207a4f {
+  margin-top: 20rpx;
+  background-color: white;
+  border-radius: 30rpx;
+  padding: 20rpx;
+}
+.card-list .single .top.data-v-93207a4f {
+  display: flex;
+  justify-content: space-between;
+}
+.card-list .single .top .left.data-v-93207a4f {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+}
+.card-list .single .top .name.data-v-93207a4f {
+  font-size: 40rpx;
+}
+.card-list .single .top .num.data-v-93207a4f {
+  font-size: 40rpx;
+}
+.card-list .single .content.data-v-93207a4f {
+  display: flex;
+  gap: 40rpx;
+}
+.card-list .single .content .left .name.data-v-93207a4f {
+  border: #007aff 1px solid;
+  border-radius: 10rpx;
+  text-align: center;
+  color: #007aff;
+  font-size: 40rpx;
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+}
+.card-list .single .content .right.data-v-93207a4f {
+  display: flex;
+  flex-direction: column;
+  gap: 10rpx;
+}
+.card-list .single .content .right .item.data-v-93207a4f {
+  display: flex;
+  gap: 10rpx;
+  align-items: center;
+}
+.card-list .single .content .right .item .value.data-v-93207a4f {
+  font-size: 24rpx;
+}
+.card-list .single .content .img.data-v-93207a4f {
+  width: 200rpx;
+  height: 200rpx;
+}

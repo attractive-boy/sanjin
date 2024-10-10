@@ -1,0 +1,29 @@
+/* 水平间距 */
+/* 水平间距 */
+.section.data-v-83d11546 {
+  border-top-left-radius: 30rpx;
+  border-top-right-radius: 30rpx;
+}
+.teamList.data-v-83d11546 {
+  padding: 30rpx;
+}
+.teamList .myTeam-box.data-v-83d11546 {
+  background-color: white;
+  padding: 30rpx;
+}
+.teamList .myTeam-box .top.data-v-83d11546 {
+  display: flex;
+  justify-content: space-between;
+}
+.teamList .myTeam-box .top .right.data-v-83d11546 {
+  display: flex;
+  align-items: center;
+  gap: 30rpx;
+}
+.teamList .myTeam-box .top .right .num.data-v-83d11546 {
+  color: blue;
+}
+.teamList .myTeam-box .content.data-v-83d11546 {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,12 @@
+/* 水平间距 */
+/* 水平间距 */
+.detail-wrapper.data-v-301a0486 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30rpx;
+}
+.detail-wrapper .title.data-v-301a0486 {
+  font-size: 50rpx;
+  font-weight: bold;
+}

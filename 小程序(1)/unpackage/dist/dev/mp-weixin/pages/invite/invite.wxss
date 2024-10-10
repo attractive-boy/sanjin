@@ -1,0 +1,29 @@
+/* 水平间距 */
+/* 水平间距 */
+.invite-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30rpx;
+  align-items: center;
+  padding-top: 190rpx;
+}
+.invite-wrapper .img {
+  width: 400rpx;
+  height: 700rpx;
+  transform: scale(1.4);
+}
+.invite-wrapper .bottom {
+  background-color: gray;
+  height: 90rpx;
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.invite-wrapper .bottom .text {
+  color: white;
+  font-size: 35rpx;
+  font-weight: bold;
+}

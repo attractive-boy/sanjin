@@ -1,0 +1,92 @@
+/* 水平间距 */
+/* 水平间距 */
+.product-list.data-v-946a9793 {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+  align-items: center;
+  padding: 30rpx;
+}
+.product-list .product-item.data-v-946a9793 {
+  background-color: white;
+  width: 90vw;
+  border-radius: 30rpx;
+  position: relative;
+  padding-bottom: 120rpx;
+}
+.product-list .product-item .line.data-v-946a9793 {
+  width: 600rpx;
+  margin-left: 30rpx;
+  border-bottom: 1px solid darkgray;
+  margin-bottom: 20rpx;
+}
+.product-list .product-item .top.data-v-946a9793 {
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx;
+}
+.product-list .product-item .top .left.data-v-946a9793 {
+  display: flex;
+  align-items: center;
+  gap: 5rpx;
+}
+.product-list .product-item .top .left .small-card.data-v-946a9793 {
+  width: 50rpx;
+  height: 50rpx;
+}
+.product-list .product-item .top .left .name.data-v-946a9793 {
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.product-list .product-item .top .left .box.data-v-946a9793 {
+  border: 1px solid blue;
+  color: blue;
+}
+.product-list .product-item .top .left .box .text.data-v-946a9793 {
+  font-weight: bold;
+}
+.product-list .product-item .top .right.data-v-946a9793 {
+  display: flex;
+  align-items: center;
+}
+.product-list .product-item .middle.data-v-946a9793 {
+  display: flex;
+  justify-content: space-around;
+}
+.product-list .product-item .middle .left.data-v-946a9793 {
+  width: 30vw;
+  background-color: blue;
+  border-radius: 30rpx;
+  padding: 30rpx;
+}
+.product-list .product-item .middle .left .my.data-v-946a9793 {
+  color: white;
+}
+.product-list .product-item .middle .left .price.data-v-946a9793 {
+  color: white;
+}
+.product-list .product-item .middle .right.data-v-946a9793 {
+  width: 30vw;
+  background-color: red;
+  border-radius: 30rpx;
+  padding: 30rpx;
+}
+.product-list .product-item .middle .right .my.data-v-946a9793 {
+  color: white;
+}
+.product-list .product-item .middle .right .price.data-v-946a9793 {
+  color: white;
+}
+.product-list .product-item .bottom.data-v-946a9793 {
+  position: absolute;
+  right: 20rpx;
+  display: flex;
+  margin-top: 30rpx;
+  border-radius: 30rpx;
+  border: 1px solid blue;
+  color: blue;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  padding-top: 10rpx;
+  padding-bottom: 10rpx;
+}

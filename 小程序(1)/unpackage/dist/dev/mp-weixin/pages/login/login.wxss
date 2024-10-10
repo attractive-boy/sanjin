@@ -1,0 +1,58 @@
+/* 水平间距 */
+/* 水平间距 */
+.login-wrapper.data-v-e4e4508d {
+  padding: 30rpx;
+}
+.title.data-v-e4e4508d {
+  font-size: 60rpx;
+}
+.tel.data-v-e4e4508d {
+  display: flex;
+  border-bottom: 1px solid gray;
+  width: 90vw;
+  margin-top: 80rpx;
+  gap: 30rpx;
+  align-items: center;
+}
+.tel .left.data-v-e4e4508d {
+  display: flex;
+  gap: 20rpx;
+}
+.tel .text.data-v-e4e4508d {
+  font-size: 40rpx;
+}
+.code.data-v-e4e4508d {
+  display: flex;
+  border-bottom: 1px solid gray;
+  width: 90vw;
+  margin-top: 80rpx;
+  gap: 30rpx;
+  align-items: center;
+  justify-content: space-between;
+}
+.code .left.data-v-e4e4508d {
+  display: flex;
+  gap: 20rpx;
+  align-items: center;
+}
+.code .text.data-v-e4e4508d {
+  font-size: 40rpx;
+}
+.agree.data-v-e4e4508d {
+  display: flex;
+  align-items: center;
+  margin-top: 70rpx;
+}
+.agree .text.data-v-e4e4508d {
+  color: gray;
+}
+.agree .black.data-v-e4e4508d {
+  color: black;
+  font-weight: bold;
+}
+.logbtn.data-v-e4e4508d {
+  background-color: grey;
+  color: white;
+  margin-top: 30rpx;
+  border-radius: 50rpx;
+}
